@@ -1,6 +1,6 @@
 
 # Variables in Python
-
+# Roger
 first_name = 'Asabeneh'
 last_name = 'Yetayeh'
 country = 'Finland'
